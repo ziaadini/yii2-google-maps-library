@@ -8,7 +8,7 @@
  *
  */
 
-namespace dosamigos\google\maps\layers;
+namespace sadi01\google\maps\layers;
 
 use dosamigos\google\maps\LatLng;
 use dosamigos\google\maps\ObjectAbstract;

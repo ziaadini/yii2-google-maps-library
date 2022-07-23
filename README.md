@@ -26,12 +26,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "2amigos/yii2-google-maps-library" "*"
+php composer.phar require "sadi01/yii2-google-maps-library" "*"
 ```
 or add
 
 ```json
-"2amigos/yii2-google-maps-library" : "*"
+"sadi01/yii2-google-maps-library" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
@@ -43,18 +43,18 @@ usage:
 
 ## Service
 ```php
-use dosamigos\google\maps\LatLng;
-use dosamigos\google\maps\services\DirectionsWayPoint;
-use dosamigos\google\maps\services\TravelMode;
-use dosamigos\google\maps\overlays\PolylineOptions;
-use dosamigos\google\maps\services\DirectionsRenderer;
-use dosamigos\google\maps\services\DirectionsService;
-use dosamigos\google\maps\overlays\InfoWindow;
-use dosamigos\google\maps\overlays\Marker;
-use dosamigos\google\maps\Map;
-use dosamigos\google\maps\services\DirectionsRequest;
-use dosamigos\google\maps\overlays\Polygon;
-use dosamigos\google\maps\layers\BicyclingLayer;
+use sadi01\google\maps\LatLng;
+use sadi01\google\maps\services\DirectionsWayPoint;
+use sadi01\google\maps\services\TravelMode;
+use sadi01\google\maps\overlays\PolylineOptions;
+use sadi01\google\maps\services\DirectionsRenderer;
+use sadi01\google\maps\services\DirectionsService;
+use sadi01\google\maps\overlays\InfoWindow;
+use sadi01\google\maps\overlays\Marker;
+use sadi01\google\maps\Map;
+use sadi01\google\maps\services\DirectionsRequest;
+use sadi01\google\maps\overlays\Polygon;
+use sadi01\google\maps\layers\BicyclingLayer;
 
 $coord = new LatLng(['lat' => 39.720089311812094, 'lng' => 2.91165944519042]);
 $map = new Map([
@@ -149,7 +149,7 @@ echo $map->display();
 
 ## Client
 ```php
-use dosamigos\google\maps\services\DirectionsClient;
+use sadi01\google\maps\services\DirectionsClient;
 
 $direction = new DirectionsClient([
     'params' => [
@@ -173,7 +173,7 @@ To configure the Google Map key or other options like language, version, library
 'components' => [
     'assetManager' => [
         'bundles' => [
-            'dosamigos\google\maps\MapAsset' => [
+            'sadi01\google\maps\MapAsset' => [
                 'options' => [
                     'key' => 'this_is_my_key',
                     'language' => 'id',
@@ -199,8 +199,8 @@ your php files, simply do:
 ## Resources
 
  * [Google Maps API Reference](https://developers.google.com/maps/documentation/)
- * [GitHub](https://github.com/2amigos/yii2-google-maps-library)
- * [2amigOS Packagist Profile](https://packagist.org/packages/2amigos/)
+ * [GitHub](https://github.com/sadi01/yii2-google-maps-library)
+ * [2amigOS Packagist Profile](https://packagist.org/packages/sadi01/)
 
 > [![2amigOS!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.2amigos.us)  
 <i>beyond software</i>  
