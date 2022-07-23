@@ -10,10 +10,10 @@
 
 namespace sadi01\google\maps\overlays;
 
-use dosamigos\google\maps\LatLng;
-use dosamigos\google\maps\ObjectAbstract;
-use dosamigos\google\maps\OptionsTrait;
-use dosamigos\google\maps\Point;
+use sadi01\google\maps\LatLng;
+use sadi01\google\maps\ObjectAbstract;
+use sadi01\google\maps\OptionsTrait;
+use sadi01\google\maps\Point;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;

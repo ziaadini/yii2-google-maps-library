@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps\overlays;
 
-use dosamigos\google\maps\OverlayTrait;
+use sadi01\google\maps\OverlayTrait;
 use yii\base\InvalidConfigException;
 
 /**

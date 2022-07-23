@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\ClientAbstract;
+use sadi01\google\maps\ClientAbstract;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

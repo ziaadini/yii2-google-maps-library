@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\LatLng;
+use sadi01\google\maps\LatLng;
 use yii\base\InvalidConfigException;
 
 /**

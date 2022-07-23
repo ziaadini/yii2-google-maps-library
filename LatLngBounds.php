@@ -10,8 +10,8 @@
 
 namespace sadi01\google\maps;
 
-use dosamigos\google\maps\overlays\Marker;
-use dosamigos\google\maps\overlays\Polygon;
+use sadi01\google\maps\overlays\Marker;
+use sadi01\google\maps\overlays\Polygon;
 use yii\base\BaseObject;
 use yii\base\InvalidParamException;
 use yii\helpers\ArrayHelper;

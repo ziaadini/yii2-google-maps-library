@@ -10,8 +10,8 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\LatLng;
-use dosamigos\google\maps\ObjectAbstract;
+use sadi01\google\maps\LatLng;
+use sadi01\google\maps\ObjectAbstract;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;

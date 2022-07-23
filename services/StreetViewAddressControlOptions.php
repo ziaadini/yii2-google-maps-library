@@ -10,9 +10,9 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\controls\ControlPosition;
-use dosamigos\google\maps\ObjectAbstract;
-use dosamigos\google\maps\OptionsTrait;
+use sadi01\google\maps\controls\ControlPosition;
+use sadi01\google\maps\ObjectAbstract;
+use sadi01\google\maps\OptionsTrait;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;

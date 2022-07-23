@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps\layers;
 
-use dosamigos\google\maps\ObjectAbstract;
+use sadi01\google\maps\ObjectAbstract;
 use yii\base\InvalidConfigException;
 
 /**

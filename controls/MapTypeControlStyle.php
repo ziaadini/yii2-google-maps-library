@@ -19,9 +19,9 @@ namespace sadi01\google\maps\controls;
  * [documentation](https://developers.google.com/maps/documentation/javascript/reference#MapTypeControlStyle) at Google.
  *
  * ```
- * use dosamigos\google\maps\controls\MapTypeControlOptions;
- * use dosamigos\google\maps\controls\MapTypeControlStyle;
- * use dosamigos\google\maps\Map;
+ * use sadi01\google\maps\controls\MapTypeControlOptions;
+ * use sadi01\google\maps\controls\MapTypeControlStyle;
+ * use sadi01\google\maps\Map;
  *
  * $options = new MapTypeControlOptions(['style' => MapTypeControlStyle::DROPDOWN_MENU]);
  *

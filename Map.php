@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps;
 
-use dosamigos\google\maps\overlays\Marker;
+use sadi01\google\maps\overlays\Marker;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

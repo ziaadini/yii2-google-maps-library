@@ -2,7 +2,7 @@
 
 /*
  *
- * @copyright Copyright (c) 2013-2019 2amigos 
+ * @copyright Copyright (c) 2013-2019 2amigos
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  *
@@ -10,8 +10,8 @@
 
 namespace extensions\google\controls\maps;
 
-use dosamigos\google\maps\ObjectAbstract;
-use dosamigos\google\maps\OptionsTrait;
+use sadi01\google\maps\ObjectAbstract;
+use sadi01\google\maps\OptionsTrait;
 use yii\helpers\ArrayHelper;
 
 /**

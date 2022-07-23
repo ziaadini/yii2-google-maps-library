@@ -10,8 +10,8 @@
 
 namespace sadi01\google\maps;
 
-use dosamigos\google\maps\overlays\InfoWindow;
-use dosamigos\google\maps\overlays\Marker;
+use sadi01\google\maps\overlays\InfoWindow;
+use sadi01\google\maps\overlays\Marker;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;
 

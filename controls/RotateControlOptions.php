@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps;
 
-use dosamigos\google\maps\controls\ControlPosition;
+use sadi01\google\maps\controls\ControlPosition;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 

@@ -10,9 +10,9 @@
 
 namespace sadi01\google\maps\overlays;
 
-use dosamigos\google\maps\ObjectAbstract;
-use dosamigos\google\maps\Point;
-use dosamigos\google\maps\Size;
+use sadi01\google\maps\ObjectAbstract;
+use sadi01\google\maps\Point;
+use sadi01\google\maps\Size;
 use yii\helpers\ArrayHelper;
 
 /**

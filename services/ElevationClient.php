@@ -10,8 +10,8 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\ClientAbstract;
-use dosamigos\google\maps\Encoder;
+use sadi01\google\maps\ClientAbstract;
+use sadi01\google\maps\Encoder;
 use Yii;
 use yii\helpers\ArrayHelper;
 

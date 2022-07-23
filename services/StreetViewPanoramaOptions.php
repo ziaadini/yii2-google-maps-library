@@ -10,10 +10,10 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\controls\PanControlOptions;
-use dosamigos\google\maps\LatLng;
-use dosamigos\google\maps\ObjectAbstract;
-use dosamigos\google\maps\OptionsTrait;
+use sadi01\google\maps\controls\PanControlOptions;
+use sadi01\google\maps\LatLng;
+use sadi01\google\maps\ObjectAbstract;
+use sadi01\google\maps\OptionsTrait;
 use yii\helpers\ArrayHelper;
 
 /**

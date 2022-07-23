@@ -10,7 +10,7 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\ObjectAbstract;
+use sadi01\google\maps\ObjectAbstract;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;
 

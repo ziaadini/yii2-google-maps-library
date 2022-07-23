@@ -10,8 +10,8 @@
 
 namespace sadi01\google\maps\services;
 
-use dosamigos\google\maps\ObjectAbstract;
-use dosamigos\google\maps\OptionsTrait;
+use sadi01\google\maps\ObjectAbstract;
+use sadi01\google\maps\OptionsTrait;
 use Yii;
 use yii\helpers\ArrayHelper;
 
