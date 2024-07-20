@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps;
+namespace ziaadini\google\maps;
 
 /**
  * OptionsTrait

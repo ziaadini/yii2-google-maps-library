@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps\layers;
+namespace ziaadini\google\maps\layers;
 
 /**
  * TrafficLayer

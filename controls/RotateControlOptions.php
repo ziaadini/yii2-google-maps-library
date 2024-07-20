@@ -8,9 +8,9 @@
  *
  */
 
-namespace sadi01\google\maps;
+namespace ziaadini\google\maps;
 
-use sadi01\google\maps\controls\ControlPosition;
+use ziaadini\google\maps\controls\ControlPosition;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 

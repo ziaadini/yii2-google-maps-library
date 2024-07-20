@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps\services;
+namespace ziaadini\google\maps\services;
 
 /**
  * TravelMode

@@ -8,9 +8,9 @@
  *
  */
 
-namespace sadi01\google\maps\services;
+namespace ziaadini\google\maps\services;
 
-use sadi01\google\maps\LatLng;
+use ziaadini\google\maps\LatLng;
 use yii\base\InvalidConfigException;
 
 /**

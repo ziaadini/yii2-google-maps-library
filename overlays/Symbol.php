@@ -8,10 +8,10 @@
  *
  */
 
-namespace sadi01\google\maps\overlays;
+namespace ziaadini\google\maps\overlays;
 
-use sadi01\google\maps\ObjectAbstract;
-use sadi01\google\maps\Point;
+use ziaadini\google\maps\ObjectAbstract;
+use ziaadini\google\maps\Point;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;

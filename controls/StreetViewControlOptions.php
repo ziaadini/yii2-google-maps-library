@@ -8,10 +8,10 @@
  *
  */
 
-namespace sadi01\google\maps\controls;
+namespace ziaadini\google\maps\controls;
 
-use sadi01\google\maps\ObjectAbstract;
-use sadi01\google\maps\OptionsTrait;
+use ziaadini\google\maps\ObjectAbstract;
+use ziaadini\google\maps\OptionsTrait;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 

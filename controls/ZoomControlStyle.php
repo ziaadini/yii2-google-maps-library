@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps\controls;
+namespace ziaadini\google\maps\controls;
 
 /**
  * ZoomControlStyle

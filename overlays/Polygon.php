@@ -8,11 +8,11 @@
  *
  */
 
-namespace sadi01\google\maps\overlays;
+namespace ziaadini\google\maps\overlays;
 
-use sadi01\google\maps\LatLng;
-use sadi01\google\maps\LatLngBounds;
-use sadi01\google\maps\OverlayTrait;
+use ziaadini\google\maps\LatLng;
+use ziaadini\google\maps\LatLngBounds;
+use ziaadini\google\maps\OverlayTrait;
 use yii\helpers\ArrayHelper;
 
 /**

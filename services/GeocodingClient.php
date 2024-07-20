@@ -8,10 +8,10 @@
  *
  */
 
-namespace sadi01\google\maps\services;
+namespace ziaadini\google\maps\services;
 
-use sadi01\google\maps\ClientAbstract;
-use sadi01\google\maps\LatLng;
+use ziaadini\google\maps\ClientAbstract;
+use ziaadini\google\maps\LatLng;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

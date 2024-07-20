@@ -8,11 +8,11 @@
  *
  */
 
-namespace sadi01\google\maps\services;
+namespace ziaadini\google\maps\services;
 
-use sadi01\google\maps\controls\ControlPosition;
-use sadi01\google\maps\ObjectAbstract;
-use sadi01\google\maps\OptionsTrait;
+use ziaadini\google\maps\controls\ControlPosition;
+use ziaadini\google\maps\ObjectAbstract;
+use ziaadini\google\maps\OptionsTrait;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;

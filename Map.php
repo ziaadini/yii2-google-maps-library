@@ -8,9 +8,9 @@
  *
  */
 
-namespace sadi01\google\maps;
+namespace ziaadini\google\maps;
 
-use sadi01\google\maps\overlays\Marker;
+use ziaadini\google\maps\overlays\Marker;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

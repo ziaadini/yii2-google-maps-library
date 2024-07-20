@@ -8,9 +8,9 @@
  *
  */
 
-namespace sadi01\google\maps\services;
+namespace ziaadini\google\maps\services;
 
-use sadi01\google\maps\ClientAbstract;
+use ziaadini\google\maps\ClientAbstract;
 use Yii;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

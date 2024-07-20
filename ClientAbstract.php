@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps;
+namespace ziaadini\google\maps;
 
 use Exception;
 use GuzzleHttp\Client as HttpClient;

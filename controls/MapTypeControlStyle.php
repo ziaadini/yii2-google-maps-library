@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps\controls;
+namespace ziaadini\google\maps\controls;
 
 /**
  * MapTypeControlStyle
@@ -19,9 +19,9 @@ namespace sadi01\google\maps\controls;
  * [documentation](https://developers.google.com/maps/documentation/javascript/reference#MapTypeControlStyle) at Google.
  *
  * ```
- * use sadi01\google\maps\controls\MapTypeControlOptions;
- * use sadi01\google\maps\controls\MapTypeControlStyle;
- * use sadi01\google\maps\Map;
+ * use ziaadini\google\maps\controls\MapTypeControlOptions;
+ * use ziaadini\google\maps\controls\MapTypeControlStyle;
+ * use ziaadini\google\maps\Map;
  *
  * $options = new MapTypeControlOptions(['style' => MapTypeControlStyle::DROPDOWN_MENU]);
  *

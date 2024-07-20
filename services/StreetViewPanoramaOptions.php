@@ -8,12 +8,12 @@
  *
  */
 
-namespace sadi01\google\maps\services;
+namespace ziaadini\google\maps\services;
 
-use sadi01\google\maps\controls\PanControlOptions;
-use sadi01\google\maps\LatLng;
-use sadi01\google\maps\ObjectAbstract;
-use sadi01\google\maps\OptionsTrait;
+use ziaadini\google\maps\controls\PanControlOptions;
+use ziaadini\google\maps\LatLng;
+use ziaadini\google\maps\ObjectAbstract;
+use ziaadini\google\maps\OptionsTrait;
 use yii\helpers\ArrayHelper;
 
 /**

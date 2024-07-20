@@ -8,11 +8,11 @@
  *
  */
 
-namespace sadi01\google\maps\controls;
+namespace ziaadini\google\maps\controls;
 
-use sadi01\google\maps\MapTypeId;
-use sadi01\google\maps\ObjectAbstract;
-use sadi01\google\maps\OptionsTrait;
+use ziaadini\google\maps\MapTypeId;
+use ziaadini\google\maps\ObjectAbstract;
+use ziaadini\google\maps\OptionsTrait;
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 use yii\web\JsExpression;
@@ -26,9 +26,9 @@ use yii\web\JsExpression;
  * [documentation](https://developers.google.com/maps/documentation/javascript/reference#MapTypeControlOptions) at Google.
  *
  * ```
- * use sadi01\google\maps\controls\MapTypeControlOptions;
- * use sadi01\google\maps\controls\MapTypeControlStyle;
- * use sadi01\google\maps\Map;
+ * use ziaadini\google\maps\controls\MapTypeControlOptions;
+ * use ziaadini\google\maps\controls\MapTypeControlStyle;
+ * use ziaadini\google\maps\Map;
  *
  * $options = new MapTypeControlOptions(['style' => MapTypeControlStyle::DROPDOWN_MENU]);
  *

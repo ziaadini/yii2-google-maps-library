@@ -8,7 +8,7 @@
  *
  */
 
-namespace sadi01\google\maps\overlays;
+namespace ziaadini\google\maps\overlays;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
