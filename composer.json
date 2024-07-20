@@ -36,7 +36,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sadi01\\google\\maps\\": ""
+            "ziaadini\\google\\maps\\": ""
         }
     },
     "config": {
